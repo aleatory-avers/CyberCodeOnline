@@ -16,23 +16,23 @@ Equipment caches come in 6 rarities: Trash, Common, High Quality, Rare, Legendar
 BTC in this game isn't redeemable. It's just in-game currency. :'(
 You can store excess Upgrade Modules in stored equipment to save inventory space.
 Enemies too tough? Make sure that your printing rank is the same as your player rank and then print new equipment!
-Curious about the cache that got? Go to the Molecular Printer and print it!
+Curious about the cache that you got? Go to the Molecular Printer and print it!
 Always carry medical and ammo parts on you in case you need to make more supplies while in a dungeon.
 Epic caches are extremely rare. Save them for when you're a higher level!
 Low on BTC? Get some by crypto mining with some Hash Processors at the Commercial Area [Job Hub].
 A higher Scavenge skill allows you to scavenge in higher level stations and get more and better loot!
 Key Fragments, which are needed to access higher level areas, appear in both normal and challenge dungeons. Experience Memory shards, however, only appear in challenge dungeons.
-While Anti Matter Charges aren't exactly rare but they aren't easy to come by either. One shouldn't use it at every single encounter. Save them for bosses or tough enemies.
-Always check the market prices before putting something up for sale!.
+While Anti Matter Charges aren't exactly rare, they aren't easy to come by either. One shouldn't use it at every single encounter. Save them for bosses or tough enemies.
+Always check the market prices before putting something up for sale!
 Scrap your unused items to get Tech Scraps. These can be used to open locked containers and craft backpack items.
 The Automatic Recycler, available at Gang Headquarters, yields more Tech Scrap per item than just scrapping an item through one's inventory.
 If you need BTC, try selling unwanted items to the Weapon Smith.  The "Bargaining" stat helps with this.
 Lost BTC when you flatlined?  Store items or BTC in the [Bank Of Arasaka].
 Inventory getting full? Consider selling, scrapping, or banking some of your items.
 If you find a item worthy, lock the item to prevent getting scrapped accidentally.
-Running out of inventory space? visit [Lee's Trading Post] to craft a backpack or visit marketplace to buy one.
+Running out of inventory space? Visit [Lee's Trading Post] to craft a backpack or visit marketplace to buy one.
 Have any low level rare items that you no longer use? Gift it to someone of lower levels, it would help them greatly!
-The cost for upgrading slots in item vault increases exponentially! Upgrade only till what you need.
+The cost for upgrading slots in item vault increases exponentially! Upgrade only til what you need.
 
 
 // Experience, Leveling
@@ -71,7 +71,7 @@ Enemies with descriptors (e.g., Shielded, Mad, Angry, Tough, Agile) are tougher,
 Keys are needed to access higher level stations. Search dungeons for their fragments!
 Remember the CCO mantra: Hit, Heal, Hit. Don't risk losing XP and BTC to save on some meds.
 Challenge dungeons always have a tough boss so don't forget to bring your friends with you when venturing in.
-Dont get Flatlined! you'll lose some of your experience and 10% of your Bitcoins. Be careful!
+Don't get Flatlined! You'll lose some of your experience and 10% of your Bitcoins. Be careful!
 You can't enter a dungeon that is 10 levels above your current one. It's for your own good.
 Spamming buttons can lead to trouble, such as unintentional attacks or wasted meds. Keep calm and don't spam.
 Your gang trait influcences the amount of damage you take and you deal to your enemy's gang. 
@@ -80,7 +80,6 @@ Your gang trait influcences the amount of damage you take and you deal to your e
 // Misc, Fun, Purchases
 Feeling faint? Stop playing for a few minutes and get some food.
 Don't forget to drink water!
-All the fancy coding making you dizzy? Try the mobile version of CCO.
 Go ahead. Hand our awesome dev Dexter Huang that potato.
 Look at this tips bar down here. We have some awesome tips for you.
 It's customary to go clockwise in public dungeons.
